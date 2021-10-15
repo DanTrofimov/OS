@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Author: Dan Trofimov (@DanTrofimov), 11-902
 import os
 import sys
