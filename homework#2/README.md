@@ -94,6 +94,6 @@ sudo chmod 755 todo
 
 <img src="https://sun9-72.userapi.com/impg/IqaUbRsnWZH2ejJhni0x8cNBZ4FCEoz168Z6eA/Mh_nN4bzndQ.jpg?size=547x364&quality=96&sign=61dda0f4fb5e090c858de5b45d181156&type=album" width="600" />
 
-- Создадим мягкие ссылки
+- Создадим мягкие ссылки c помощью `ln -s PATH LABEL`
 
 <img src="https://sun9-73.userapi.com/impg/2STkf3kl5Hbw5T5fgHdK7lGnAaw1jOvKhEq4kg/LTWRz8Iu8fk.jpg?size=633x85&quality=96&sign=e7206a14dc0e94a23684c54b810a3632&type=album" width="600" />
